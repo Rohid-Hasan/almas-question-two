@@ -1,0 +1,65 @@
+[
+  {
+    "student_id": 2,
+    "student_name": "jp student",
+    "img": "https://plabook-data.s3.amazonaws.com/avatar/avatar2.png",
+    "data": [
+      {
+        "month": "Sep",
+        "readings": [
+          {
+            "book_id": 5,
+            "book_name": "Hey, Diddle, Diddle (Dd)",
+            "proficiency": 0
+          }
+        ]
+      },
+      {
+        "month": "Oct",
+        "readings": [
+          { "book_id": 7, "book_name": "Jack and Jill (Jj)", "proficiency": 0 },
+          { "book_id": 8, "book_name": "Jack y Jill (Jj)", "proficiency": 0 }
+        ]
+      },
+      {
+        "month": "Nov",
+        "readings": [
+          {
+            "book_id": 2,
+            "book_name": "Baa, baa, oveja negra",
+            "proficiency": 50
+          },
+          {
+            "book_id": 3,
+            "book_name": "Pat-a-cake (Bb)",
+            "proficiency": 88.33333333333333
+          },
+          {
+            "book_id": 23,
+            "book_name": "Twinkle, Twinkle, Little Star",
+            "proficiency": 60
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "student_id": 4,
+    "student_name": "Almas Hossain csv",
+    "img": "https://plabook-data.s3.amazonaws.com/avatar/Avatar_4.png",
+    "data": [
+      {
+        "month": "Sep",
+        "readings": [
+          {
+            "book_id": 5,
+            "book_name": "Hey, Diddle, Diddle (Dd)",
+            "proficiency": 0
+          }
+        ]
+      },
+      { "month": "Oct", "readings": [] },
+      { "month": "Nov", "readings": [] }
+    ]
+  }
+]
